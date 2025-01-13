@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: chartreuse;
+border: 10px solid black;
+color: rgb(255, 0, 0);
+border-radius: 12px;
+}
+
+h1 {
+text-align: center;
+color: red;
+}
+
+.contacts {
+background-color:yellow ;
+}
+
+.name {
+border-radius: 17;
+border: solid darkblue;
+color: green;
+padding: 3px 18px 3px 18px;
+margin: 6px;
+text-decoration: none;
+}
+
+.products {
+background-color: red;
+}
